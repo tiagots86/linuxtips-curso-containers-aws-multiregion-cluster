@@ -6,7 +6,7 @@ on:
             - main
 
 env: 
-    AWS_ACCOUNT: "181560427716"
+    AWS_ACCOUNT: "481768428259"
 
 jobs:
     ci-terraform-pre-deployment:
