@@ -1,2 +1,2 @@
 project_name = "sales-cluster"
-region = "us-east-1"
+region       = "us-east-1"
